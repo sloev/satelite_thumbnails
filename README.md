@@ -1,5 +1,8 @@
 # Download satelite images of a geo polygon **over time**
 
+<a href="https://www.buymeacoffee.com/sloev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-pink.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
+
+
 Download (aaproximately... zoom level may vary) all satelite images (low res thumbnails) of a given geolocation.
 
 ## install
